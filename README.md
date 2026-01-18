@@ -6,8 +6,8 @@
 ---
 
 ## 👨‍💻 About Me
-Main tech field me hoon aur **DSA (Data Structures & Algorithms)** seekh raha hoon.  
-Abhi basics clear kar raha hoon aur dheere-dheere improve kar raha hoon.
+I am in the tech field and currently learning Data Structures and Algorithms (DSA).
+I am strengthening my fundamentals and continuously improving my problem-solving skills.
 
 ---
 
